@@ -14,12 +14,10 @@ This Python script provides a simple command-line interface for tracking interns
 
 ## Installation
 1. Clone this repository or download the script files.
-2. Install the required dependencies:
-`pip install -r requirements.txt`
 
 ## Usage
 To run the Internship Application Tracker:
-`python main.py`
+`python3 /src/main.py`
 
 ## Menu Options
 1. **Add new application**: Input details for a new internship application.
@@ -32,3 +30,5 @@ To run the Internship Application Tracker:
 - `main.py`: The main script containing the menu loop and user interface.
 - `funs.py`: Contains helper functions for database operations and application management.
 
+## Future Feature
+- **Follow-Up Status Integration**: Will integrate with Google Calendar and input automated follow-up reminders based on follow-up status
